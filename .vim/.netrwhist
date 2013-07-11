@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/bpowers/aurora/trunk/web/application/views'
+let g:netrw_dirhist_2='/home/bpowers/aurora/trunk/web/application'
+let g:netrw_dirhist_3='/home/bpowers/aurora/trunk/web'
+let g:netrw_dirhist_4='/home/bpowers/aurora/trunk/web/public'
+let g:netrw_dirhist_5='/home/bpowers/aurora/trunk/web/public/js'
+let g:netrw_dirhist_6='/home/bpowers/aurora/trunk/web/public/js/classes'
+let g:netrw_dirhist_7='/home/bpowers/aurora/trunk/web/public/js/classes/manager'
+let g:netrw_dirhist_8='/home/bpowers/cdp/trunk/prototypes/Yeoman/app'
